@@ -63,7 +63,7 @@ The goal is to generate sequences of notes (chorales) in the style of Bach. The 
 
 ## Files in This Project
 
-- `train_model.ipynb` - main notebook with preprocessing, training, and generation
+- `bach_music.ipynb` - main notebook with preprocessing, training, and generation
 - `chorales/` - folder with train, validation, and test CSV files
 - `music_model.keras` - trained Keras model saved from Google Colab
 
